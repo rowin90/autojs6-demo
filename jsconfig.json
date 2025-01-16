@@ -1,0 +1,7 @@
+{
+  "compilerOptions": {
+    "typeRoots": [
+      "./node_modules/@sm003/autojs6-dts/declarations",
+    ]
+  }
+}
